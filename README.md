@@ -6,3 +6,6 @@ This repository consists of Java Program for Employee Management System. In this
 (4) Viewing details of User
 
 The Program is completely based on the OOPs concepts.
+![out1](https://github.com/Farooq710/User-Management-System/assets/129939020/10ee2a70-d821-44ff-93ba-26bbe192873c)
+![out2](https://github.com/Farooq710/User-Management-System/assets/129939020/7bceffff-39e8-4881-974b-756f3f1f817a)
+
